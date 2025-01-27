@@ -282,7 +282,7 @@ On peut passer au **résultats**.
 
 ## Partie 4 : Résultats
 
-On peut regrouper tous nos résultats dans la figure suivante (l'image est aussi dispo dans le github au cas où): 
+On peut regrouper tous nos résultats dans la figure suivante (l'image est aussi dispo dans le github au cas où ou à l'adresse https://drive.google.com/file/d/1sGYD1SDlzwzK6iQRulwbft331AdW5gpD/view?usp=sharing): 
 
 ![<image>](https://drive.google.com/file/d/1sGYD1SDlzwzK6iQRulwbft331AdW5gpD/view?usp=sharing)
 
